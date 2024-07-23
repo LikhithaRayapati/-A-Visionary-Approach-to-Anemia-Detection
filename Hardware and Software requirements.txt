@@ -1,0 +1,17 @@
+HARDWARE REQUIREMENTS 
+
+Central Processing Unit (CPU) ---->  Intel Core i5 6th Generation processor or higher. An AMD euivalent processor will also be optimal.
+RAM ----> 8 GB minimum, 16 GB or higher is recommended.
+Operating System -----> Ubuntu or Microsoft Windows 10. I recommend updating Windows 10 to the latest version before proceeding forward.
+
+
+SOFTWARE REQUIREMENTS :
+
+Tools :
+• Python (Programming Language)
+• Keras (API)
+• Tensorflow (open-source software library for machine learning)
+• Jupyter Notebook (open-source web application)
+• OpenCV
+• Notepad
+• Visual Studio Code
